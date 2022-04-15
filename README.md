@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
 - 📫 How to reach me **aryantewatia999@gmail.com**
-
+<img align="right" alt="gif" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
