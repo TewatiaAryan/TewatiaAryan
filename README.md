@@ -2,11 +2,11 @@
 <h3 align="center">A passionate coder from India .</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tewatiaaryan" alt="tewatiaaryan" /></a> </p>
-
+<img align="right" alt="gif" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
 - 🌱 I’m currently learning **Data Structures and Algorithm**
 
 - 📫 How to reach me **aryantewatia999@gmail.com**
-<img align="right" alt="gif" width="400" src="https://media.giphy.com/media/VTtANKl0beDFQRLDTh/giphy.gif">
+
 - ⚡ Fun fact **I think I am funny XD**
 
 <h3 align="left">Connect with me:</h3>
